@@ -2,4 +2,4 @@ classes= 4
 train  = data/train.txt
 valid  = data/train.txt
 names = data/obj.names
-backup = "/content/drive/My Drive/darknet/backup/"
+backup =  backup/
